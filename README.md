@@ -2,6 +2,8 @@
 
 # Dockat
 
+<p align="center"><img src="Assets/preview.png" alt="Gatinhos pixel art passeando em cima do Dock do macOS"></p>
+
 Gatinhos pixel art que vivem no seu Dock do macOS. Eles andam, sentam, dormem, se espreguiçam, levam bronca e brigam entre si. Escolha a pelagem, a personalidade e quantos gatos quiser. O app fica na barra de menus (<img src="Assets/menubar.png" width="16" alt="">).
 
 ## Baixar
