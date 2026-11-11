@@ -45,8 +45,8 @@ let cenas: [(String, Pose, Int, Emote?, Bool, CGFloat)] = [
     ("cinza", .sentadoFeliz, 0, .exclamacao, false, 520),
     ("branco", .tapa, 0, nil, true, 710),
     ("siames", .cheirando, 0, .interrogacao, false, 900),
-    ("preto", .dormindo, 0, nil, false, 1090),
-    ("rajado", .espreguicando, 0, nil, true, 1260),
+    ("preto", .dormindo, 0, nil, false, 1075),
+    ("rajado", .espreguicando, 0, nil, true, 1310),
 ]
 for (id, pose, q, emote, espelhar, x) in cenas {
     let origem = CGPoint(x: x, y: dockTopo - CGFloat(Sprite.altura) * px + 2)
